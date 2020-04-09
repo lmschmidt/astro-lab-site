@@ -20,6 +20,10 @@ rtt: true
 <img src="../people/assets/MaryAnne1_Copy.jpg" width="150" style='margin-top:6px' alt="Mary Anne Limbach" class="profile"/>
 Mary Anne Limbach is an Optical Engineer in the Astronomical Instrumentation Lab where she working on [GMACS](/instruments/gmacs/) Mrs. Limbach has worked in the instrumentation field for nearly a dozen years and has been lead optical engineer on several instruments including an exoplanet direct-imaging integral field spectrograph (CHARIS) for the Subaru telescope built at Princeton University and an instrument designed to test coronagraphs (BESSEL) at the University of Arizona.
 <div class="clearfix" />
+## Irfan Beg
+<img src="../people/assets/irfan_beg.jpg" width="150" style='margin-top:6px' alt="Irfan Beg" class="profile"/>
+Irfan is a Mechanical Engineering Specialist. He graduated from Texas A&amp;M University with a degree in mechanical engineering and is working on the GMT mirror support actuator project as well as various other lab projects.
+<div class="clearfix" />
 ## Lauren Aldoroty
 <img src="../people/assets/Lauren2.jpg" width="150" style='margin-top:6px' alt="Lauren Aldoroty" class="profile"/>Lauren Aldoroty is a graduate student in the Department of Physics and Astronomy. She is interested in spectroscopy and applications of 3D printing to astronomical instrumentation. Lauren is currently investigating the feasibility of using commercially available 3D printing materials for slit mask manufacturing.
 <div class="clearfix" />
