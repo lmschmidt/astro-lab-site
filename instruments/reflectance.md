@@ -66,7 +66,7 @@ Data Analysis:
 ## Characterization of White Materials
 
 [Click here](/instruments/samples/) to view materials and their respective plots.  
-[Click here](/instruments/reflectance_plots/) to view all plots.  
+[Click here](/instruments/reflectance_plots/#lambertian-characterization---white-materials) to view all plots.  
 
 ## Labeling of Samples 
 The original labeling of the metal samples was done using a 3-letter ID system separated by periods. The first letter identifies the metal type (C: cast aluminum, A: 6061 aluminum, I: invar, S: stainless steel). The second letter signifies the initial metal treatment (R: raw, P: Polished, M: machined, B: Bead-Blasted). Finally, the last letter identifies the coating treatment of the sample (B: Black-Dye Anodization, H: Hardcoat Non-Dyed Anodization, N: Electroless Nickel Coating).  

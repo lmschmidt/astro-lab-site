@@ -16,7 +16,7 @@ The Transient Optical Robotic Observatory of the South, [(TOROS)](https://toros.
 Located at Cordón Macón in Salta Province, Argentina, 4660 m elevation.
 
 ## Telescope, Corrector, and Filters
-The telescope is a [Planewave CDK24](http://planewave.com/products-page/telescopes/24-inch-cdk-optical-tube-assembly/) an *f*/6.5 Corrected Dall-Kirkham.
+The telescope is a [Planewave CDK24](http://planewave.com/products-page/telescopes/24-inch-cdk-optical-tube-assembly/) (*f*/6.5 Corrected Dall-Kirkham)
 
 ![Optical Layout](/instruments/assets/toros/toros-layout.jpg "TOROS optical layout")
 
