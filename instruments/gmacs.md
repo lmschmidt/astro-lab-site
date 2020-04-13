@@ -12,7 +12,6 @@ The Giant Magellan Telescope Multi-object Astronomical and Cosmological Spectrog
 ## Software & Tools
 - [GMACS Exposure Time Calculator](http://instrumentation.tamu.edu/etc_gmacs)  
 - [GMACS Configurations Explorer](https://instrumentation.tamu.edu/gmacs/modes/gmacs_modes.html?v1.0)  
-- [GMACS Mask Simulator](/instruments/gmacs-ms/)
 ## Current Development
 <figure>
   <a href="/instruments/assets/split-labeled.jpg" target="_blank"><img src="/instruments/assets/split-labeled.jpg" alt="GMACS Assembly"></a>
@@ -43,7 +42,7 @@ Key design parameters are summarized in the table below.
 | Wavelength Coverage | 350-950nm / 320-1000nm |  |
 | Spectral Resolution | Blue: 1000-6000 <br />Red: 1000-6000 | 0.7” slit width,<br />full coverage at lower resolutions,<br />wavelength coverage at higher resolutions is sacrificed |
 | Image Quality | 0.30 / 0.15 arcsec | 80% EE, tied to MANIFEST fiber diameter |
-| Spectral Stability | 0.3 / 0.1 | spectral resolution elements per hour |
+| Spectral Stability | 0.1/0.1 | spectral resolution elements per hour |
 | Grating Exchange | 1 / ≥2 gratings | multiple wavelength regions |
 | Slit Mask Exchange | 12 / ≥20 | cassette-style mask changer |
 
