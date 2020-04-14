@@ -23,7 +23,7 @@ We have designed the Dual Observation Camera (DuOCam), which is capable of simul
 Color-magnitude diagrams are used to determine key attributes of stellar clusters, including age, metallicity, and distance, which can shed light on the evolution of stars and the formation of structure in our Galaxy (Figure 1). They are created by plotting the magnitude of stars in a cluster in a color band versus the difference in magnitude of that color band and another color band. When these values are plotted for a stellar cluster, a clear evolutionary track can be seen, the parameters of which are used to determine cluster attributes.
 
 <figure>
-  <a href="/instruments/assets/hrdiag.png" target="_blank"><img src="/instruments/assets/hrdiag.png" alt="HR Diagram"></a>
+  <a href="/instruments/assets/duocam/hrdiag.png" target="_blank"><img src="/instruments/assets/duocam/hrdiag.png" alt="HR Diagram"></a>
   <figcaption>Figure 1: Example Hertzsprung-Russell Diagram. The axis can be converted to R vs. B-R to obtain a color-magnitude diagram. Source: European Southern Observatory.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Color-magnitude diagrams are used to determine key attributes of stellar cluster
 In order to image the stellar cluster simultaneously in two separate wavelength bands, the light from the stars must be split. First, the light is collimated (made parallel), by use of a negative lens (-150 mm focal length) to prevent the introduction of aberrations by the dichroic. The light then encounters a blue dichroic, a specially treated piece of glass that transmits red light (~525 - 800 nm) and reflects blue light (~400 - 525 nm). This light is then refocused by positive lenses (+100 mm focal length) onto separate CCDs (Figure 2).
 
 <figure>
-  <a href="/instruments/assets/duooptics.png" target="_blank"><img src="/instruments/assets/duooptics.png" alt="DuOCam Optics"></a>
+  <a href="/instruments/assets/duocam/duooptics.png" target="_blank"><img src="/instruments/assets/duocam/duooptics.png" alt="DuOCam Optics"></a>
   <figcaption>Figure 2: Optical system for DuOCam.</figcaption>
 </figure>
 
@@ -39,13 +39,13 @@ The lenses in this system (Figures 2 and 3a) were chosen in order to balance a m
 <div class="clearfix"></div>
 <div style="margin: 5px; float: left;max-width:48%;">
 <figure>
-  <a href="/instruments/assets/duo7.png" target="_blank"><img src="/instruments/assets/duo7.png" alt="DuOCam Optical System"></a>
+  <a href="/instruments/assets/duocam/duo7.png" target="_blank"><img src="/instruments/assets/duocam/duo7.png" alt="DuOCam Optical System"></a>
   <figcaption>Figure 3a: SolidWorks model of the optical system with lens mounts.</figcaption>
 </figure>
 </div>
 <div style="margin: 5px; float: right;max-width:48%;">
 <figure>
-  <a href="/instruments/assets/duo8.jpg" target="_blank"><img src="/instruments/assets/duo8.jpg" alt="DuOCam Optical System"></a>
+  <a href="/instruments/assets/duocam/duo8.jpg" target="_blank"><img src="/instruments/assets/duocam/duo8.jpg" alt="DuOCam Optical System"></a>
   <figcaption>Figure 3b: Assembled optical system in mounting box with CCDs.</figcaption>
 </figure>
 </div>
@@ -56,13 +56,13 @@ The effectiveness of the design was hindered by the use of a mounting box inheri
 <div class="clearfix"></div>
 <div style="margin: 5px; float: left;max-width:48%;">
 <figure>
-  <a href="/instruments/assets/duo9.jpg" target="_blank"><img src="/instruments/assets/duo9.jpg" alt="DuOCam Optical System"></a>
+  <a href="/instruments/assets/duocam/duo9.jpg" target="_blank"><img src="/instruments/assets/duocam/duo9.jpg" alt="DuOCam Optical System"></a>
   <figcaption>Figure 4a: The 0.9m telescope at McDonald Observatory.</figcaption>
 </figure>
 </div>
 <div style="margin: 5px; float: right;max-width:48%;">
 <figure>
-  <a href="/instruments/assets/duo10.jpg" target="_blank"><img src="/instruments/assets/duo10.jpg" alt="DuOCam Optical System"></a>
+  <a href="/instruments/assets/duocam/duo10.jpg" target="_blank"><img src="/instruments/assets/duocam/duo10.jpg" alt="DuOCam Optical System"></a>
   <figcaption>Figure 4b: DuOCam installed on the 0.9m telescope.</figcaption>
 </figure>
 </div>
@@ -80,14 +80,14 @@ Observations occurred on four nights from July 21 to July 24 using the 0.9m tele
 
 <figcaption><center>Table 1: Stellar clusters selected for observation. Clusters chosen had to be high enough in the sky from July 21 to 24 to minimize atmospheric interference, be bright enough for the camera to detect them in a relatively short exposure time, and be small enough for the CCDs to detect the majority of stars in the cluster.<br>Source: Arnold Barmettler, <a href="www.calsky.com" target="_blank">www.calsky.com</a></center></figcaption>
 <figure>
-  <div style="margin:auto"><img src="/instruments/assets/image00.png" style="float:left;max-width:48%"><img src="/instruments/assets/image01.png" style="float:right;max-width:48%"></div>
+  <div style="margin:auto"><img src="/instruments/assets/duocam/image00.png" style="float:left;max-width:48%"><img src="/instruments/assets/duocam/image01.png" style="float:right;max-width:48%"></div>
   <figcaption><center>Figure 5: Dark field subtracted, bias corrected, and stacked images of M56 in (left) the red band and (right) the blue band. Images have been color inverted for ease of viewing.</center></figcaption>
 </figure>
 
 ## Analysis
 NGC 6779, aka M 56, with a 60s exposure time from the night of July 23rd was selected as having data of high enough quality to produce a color-magnitude diagram. Dark frame subtraction and bias frame correction were performed on the raw data and the images were stacked (Figure 5). The fluxes of 52 stars visible in both the red and blue images were measured. A star was then located that was present in both images which had both an R and B magnitude available in the literature. The flux data was then magnitude calibrated and used to create a R vs. B-R color magnitude diagram of M 56. As seen in Figure 6, these stars follow the evolutionary track characteristic of stellar clusters. The tip of the main sequence as well as the main sequence turnoff and the beginnings of the red giant branch are clearly visible.  
 <figure style="padding-top:-10em">
-  <a href="/instruments/assets/image03.jpg" target="_blank"><img src="/instruments/assets/image03.jpg"></a>
+  <a href="/instruments/assets/duocam/image03.jpg" target="_blank"><img src="/instruments/assets/duocam/image03.jpg"></a>
   <figcaption><center>Figure 6: Color magnitude diagram for M56 (NGC 6779). Note the main sequence turning off into the red giant branch.</center></figcaption>
 </figure>
 

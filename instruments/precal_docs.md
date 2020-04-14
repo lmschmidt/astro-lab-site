@@ -14,22 +14,22 @@ PreCal is a monochromator based system that can scan the throughput of any syste
 ## Installation  
 The PreCal system exists entirely on the monochromator cart, and is currently installed only on the black laptop named Nymeria. To install the PreCal software on another computer, download the MoCoAuto.zip file at the end of this page and follow the instructions in the README.txt file. I have included pictures of the things that need to be changed in LabVIEW to help clarify any confusion. The first thing you should do when you want to install the system on a new laptop is to go to [this link](https://www.sbig.com/support/software/) and download DriverChecker64. This will install (some of) the drivers needed for the camera to run properly. This figure indicates what should be changed in order for the LabVIEW program to correctly locate and run the CCDAutomation.exe file. The upper most path constant should be the path to the directory where the `MOCOAUTOMATION_1.0.vi` is located, with the filename `CCDrunfile.bat` appended. This is how the program creates the .bat file that is used to launch the CCD control software. The lower left box (the string constant) indicates the path to the `CCDAutomation.exe` file, with a cd in front. Thus, it should read `cd [your_path_here]\CCDAutomation.exe`. This tells the command prompt to change to the correct directory and run the .exe file. The second (lower right) path constant specifies the working directory. In reality, this should be the same directory where the .vi file is located, but I have included it to allow for more flexibility in future operations.  
 <figure>
-	<a href="/instruments/assets/precal_figure1.png" target="_blank"><img src="/instruments/assets/precal_figure1.png"></a>
+	<a href="/instruments/assets/precal_docs/precal_figure1.png" target="_blank"><img src="/instruments/assets/precal_docs/precal_figure1.png"></a>
 	<figcaption>
 		The red boxes indicate the major areas of concern: The correct cases, and the location of the variable to change within the cases.
 	</figcaption>
 </figure>
 The next two figures show where the constants must be changed in the middle of the program, in the main case structure. Again, the box at the top specifies the correct case, and the other boxes (in this case, all path constants) should have the following value- `[your_path_here]\communication.txt`. These values should be the same for both the "Photodiode Acquire" and "Acquire Dark" cases.  
 <figure>
-	<a href="/instruments/assets/precal_figure2.png" target="_blank"><img src="/instruments/assets/precal_figure2.png"></a>
+	<a href="/instruments/assets/precal_docs/precal_figure2.png" target="_blank"><img src="/instruments/assets/precal_docs/precal_figure2.png"></a>
 </figure>
 <figure>
-	<a href="/instruments/assets/precal_figure3.png" target="_blank"><img src="/instruments/assets/precal_figure3.png"></a>
+	<a href="/instruments/assets/precal_docs/precal_figure3.png" target="_blank"><img src="/instruments/assets/precal_docs/precal_figure3.png"></a>
 </figure>
 
 This next figure notes the location of the path constant to change for the shutdown file. Again, it should lead to the same directories as the above values, except have the `shutdown.txt` part appended, (ie, `[your_path_here]\shutdown.txt`).  
 <figure>
-	<a href="/instruments/assets/precal_figure4.png" target="_blank"><img src="/instruments/assets/precal_figure4.png"></a>
+	<a href="/instruments/assets/precal_docs/precal_figure4.png" target="_blank"><img src="/instruments/assets/precal_docs/precal_figure4.png"></a>
 </figure>
 
 ## Operation  
@@ -105,10 +105,10 @@ To check yourself, here are some throughput plot I have made (using a manual, ra
 <small>Note: This first plot has a point where I accidentally let the photodiode saturate. This is what it looks like if that accidentally makes it through to the plotting stage.</small>  
 
 <figure>
-	<img src="/instruments/assets/precal_figure5.png">
+	<img src="/instruments/assets/precal_docs/precal_figure5.png">
 </figure>
 <figure>
-	<img src="/instruments/assets/precal_figure6.png">
+	<img src="/instruments/assets/precal_docs/precal_figure6.png">
 </figure>
 
 ## Basic Troubleshooting  

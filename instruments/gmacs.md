@@ -5,7 +5,7 @@ sidebar:
   nav: "side"
 toc: true
 header:
-  image: /instruments/assets/Banner_GMACS.jpg
+  image: /instruments/assets/banners/banner_gmacs.jpg
 rtt: true
 ---
 The Giant Magellan Telescope Multi-object Astronomical and Cosmological Spectrograph (GMACS) is a wide field, multi-object, moderate-resolution, optical spectrograph being designed for the Giant Magellan Telescope (GMT). Our goal is to create an instrument capable of spectroscopically observing the faintest possible targets, which are currently known only from imaging observations. High throughput, simultaneous wide wavelength coverage, accurate and precise sky subtraction, moderate resolution, relatively wide field, and substantial multiplexing are crucial design drivers for the instrument.  
@@ -14,7 +14,7 @@ The Giant Magellan Telescope Multi-object Astronomical and Cosmological Spectrog
 - [GMACS Configurations Explorer](https://instrumentation.tamu.edu/gmacs/modes/gmacs_modes.html?v1.0)  
 ## Current Development
 <figure>
-  <a href="/instruments/assets/split-labeled.jpg" target="_blank"><img src="/instruments/assets/split-labeled.jpg" alt="GMACS Assembly"></a>
+  <a href="/instruments/assets/gmacs/split-labeled.jpg" target="_blank"><img src="/instruments/assets/gmacs/split-labeled.jpg" alt="GMACS Assembly"></a>
   <figcaption>Figure 1: The current GMACS concept. After the field lens the light is spit into red and blue channels. The VPH gratings and camera assemblies can rotate independently of each other (up to 90° camera-collimator angle). Masks or the MANIFEST fiber interface are exchanged using a cassette system at the top of the instrument (see Fig. 2).</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ SPIE 2018 papers and posters:
 The current concept for GMACS includes ≥20 interchangeable multi-object slit masks which are placed at the focal plane of the GMT. After passing through a field lens, a dichroic splits the beam into “blue” (reflected) and “red” (transmitted) channels split at 558nm. Each channel has a collimating lens group followed by exchangeable VPH gratings. The light is then focused onto each red or blue optimized CCD array (8k x 12k pixels) via f/2.2 cameras. The positions of the optical assemblies are controlled with an active flexure compensation system. As the telescope tracks an object, this system responds to the changing gravity vector, removing flexure induced image motion. GMACS will also contain a wavelength calibration system and cameras for target acquisition and mask alignment.
 
 <figure>
-	<a href="/instruments/assets/smem-labeled.jpg" target="_blank"><img src="/instruments/assets/smem-labeled.jpg"></a>
+	<a href="/instruments/assets/gmacs/smem-labeled.jpg" target="_blank"><img src="/instruments/assets/gmacs/smem-labeled.jpg"></a>
 	<figcaption>
 		Figure 2: Concept for the slit mask exchange mechanism. Masks are loaded into a magazine and can be inserted into the focal plane via the slit mask elevator. Surrounding the focal plane are multiple guide, acquisition, and focus cameras that are used to align target objecs with their respective slits as well as provide focus offsets to the GMT Acquisition, Guiding, and Wavefront Sensing system (AGWS). On the opposite side of the focal plane, the MANIFEST fiber positioner interface is shown. It can be inserted into the focal plane using the same rail system as the slit masks.
 	</figcaption>
@@ -49,7 +49,7 @@ Key design parameters are summarized in the table below.
 ## How GMACS fits into the GMT
 GMACS will be mounted in the Gregorian Instrument Rotator as shown in the figure below. The instrument design will also include handling and test carts to facilitate assembly, integration and verification of the instrument, as well as instrument exchange at the telescope.
 <figure>
-  <a href="/instruments/assets/gmacs_in_telescope_v2.jpg" target="_blank"><img src="/instruments/assets/gmacs_in_telescope_v2.jpg" alt="GMACS in Telescope"></a>
+  <a href="/instruments/assets/gmacs/gmacs_in_telescope_v2.jpg" target="_blank"><img src="/instruments/assets/gmacs/gmacs_in_telescope_v2.jpg" alt="GMACS in Telescope"></a>
   <figcaption>Figure 3: GMACS will be mounted in the Gregorian Instrument Rotator.</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ GMACS has a long history of design studies and active collaboration with GMT par
 
 A GMACS community workshop during 2014 March 18-19 at Texas A&M University helped to define the scientific requirements for the instrument. The workshop included 51 participants, representing all of the GMT partners and including representatives from national and international non-partners. The participants provided expertise in a wide range of astrophysical areas through contributed talks and breakout groups focused on (1) stars, star-formation, and planets; (2) resolved Galaxies (including Dwarf Galaxies) and near-field cosmology; and (3) distant galaxies (including reionization and first light science). Past design studies, requirements from GMTO and input from the scientific community have been condensed into key design requirements and formal instrument development has begun. An advantage of the instrument history is that most technical risks to the project are well known and most have well-considered mitigation strategies (i.e. appropriate detectors, optics blanks, lens fabrication vendors, etc. are identified or commercially available).
 
-Click to read the [Conceptual Design Report](/instruments/assets/GMACS_CoDR_Report_web.pdf) for the previous iteration of GMACS.
+Click to read the [Conceptual Design Report](/instruments/assets/gmacs/GMACS_CoDR_Report_web.pdf) for the previous iteration of GMACS.
 
 ## Student led projects related to GMACS  
 - [Cargille Test](/instruments/cargille/)  

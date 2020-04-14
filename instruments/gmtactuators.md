@@ -1,6 +1,8 @@
 ---
 layout: single
 title: GMT Actuators
+header:
+  image: /instruments/assets/banners/banner_gmt.jpg
 sidebar:
   nav: "side"
 toc: true

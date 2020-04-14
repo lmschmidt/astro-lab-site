@@ -12,7 +12,7 @@ We have designed and built a device capable of measuring both the specular refle
 This device consists of two distinct assemblies: the system of rotating arms and the sample mount, as shown in Figure 1.  
 
 <figure>
-  <a href="/instruments/assets/madlasr1.jpg" target="_blank"><img src="/instruments/assets/madlasr1.jpg" alt="Figure 1"></a>
+  <a href="/instruments/assets/madlasr/madlasr1.jpg" target="_blank"><img src="/instruments/assets/madlasr/madlasr1.jpg" alt="Figure 1"></a>
   <figcaption>Figure 1: MADLaSR Setup in the Munnerlyn Astronomical Instrumentation Laboratory in Texas A&M University</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ Due to physical limitations, the minimum angle the MADLaSR can be positioned at 
 When testing for specular reflectivity, the laser and the sensor are moved to different positions symmetrically with respect to the central axis as defined by their pivot rod. An example of this setup is shown in Figure 2. By positioning iris diaphragms in front of both the laser and sensor, the diffuse scattering of the laser beam is minimized to ensure that we are measuring solely the specular reflection.  
 
 <figure>
-  <a href="/instruments/assets/madlasr2.jpg" target="_blank"><img src="/instruments/assets/madlasr2.jpg" alt="Figure 2"></a>
+  <a href="/instruments/assets/madlasr/madlasr2.jpg" target="_blank"><img src="/instruments/assets/madlasr/madlasr2.jpg" alt="Figure 2"></a>
   <figcaption>Figure 2: MADLaSR's Specular Reflectivity Testing</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ When testing for specular reflectivity, the laser and the sensor are moved to di
 When testing for Lambertian reflectivity, the laser must be positioned perpendicular to the surface of the material while the sensor is moved to different angles. This setup, as shown in Figure 3, is designed to test for constant apparent surface brightness regardless of the angle of observation.  
 
 <figure>
-  <a href="/instruments/assets/madlasr3.jpg" target="_blank"><img src="/instruments/assets/madlasr3.jpg" alt="Figure 3"></a>
+  <a href="/instruments/assets/madlasr/madlasr3.jpg" target="_blank"><img src="/instruments/assets/madlasr/madlasr3.jpg" alt="Figure 3"></a>
   <figcaption>Figure 3: MADLaSR Running Lambertian Reflectivity Testing</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ When testing for Lambertian reflectivity, the laser must be positioned perpendic
 User interfaces, as shown in Figure 4, were made for both specular and Lambertian testing to allow for full customization of settings and the display of results in real time.  
 
 <figure>
-  <a href="/instruments/assets/madlasr4.jpg" target="_blank"><img src="/instruments/assets/madlasr4.jpg" alt="Figure 4"></a>
+  <a href="/instruments/assets/madlasr/madlasr4.jpg" target="_blank"><img src="/instruments/assets/madlasr/madlasr4.jpg" alt="Figure 4"></a>
   <figcaption>Figure 4: Specular Reflectivity User Interface</figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ In order to measure the specular reflectance for our samples, we used a Helium-N
 **Experimental Setup:**  
 Below is the setup we constructed on an optics bench in the Munnerlyn Astronomical Instrumentation Laboratory at Texas A&M University. Our setup, shown below, consists of a mounted Helium-Neon laser (top-left) which is reflected off the angled sample (top-right) and sent towards the photodiode detector (middle-left) where an intensity measurement is taken using the Gentec photo-detector (bottom-middle). All measurements were taken in a dark room environment.
 <figure>
-  <a href="/instruments/assets/specularsetup.jpg" target="_blank"><img src="/instruments/assets/specularsetup.jpg" alt="Specular setup"></a>
+  <a href="/instruments/assets/madlasr/specularsetup.jpg" target="_blank"><img src="/instruments/assets/madlasr/specularsetup.jpg" alt="Specular setup"></a>
 </figure>
 
 **Procedure:**  
@@ -85,7 +85,7 @@ Below is the setup we constructed on an optics bench in the Munnerlyn Astronomic
 2. With the specular reflectance value coupled with the total reflectance values (MCF) we calculated the diffuse reflectance values.  
 3. Finally, we took the ratios of the specular and diffuse components to analyze each sample's fraction of specular reflectance (shown below).  
 
-Gentec Photodiode: PH100-SiUV (S/N: 181951, <a href="/instruments/assets/PH_2012_V1.0.pdf">datasheet link</a>)
+Gentec Photodiode: PH100-SiUV (S/N: 181951, <a href="/instruments/assets/madlasr/PH_2012_V1.0.pdf">datasheet link</a>)
 
 ## List and Measurements of Sample Materials
 Please <a href="/instruments/samples/">click here</a> for a detailed list of sample materials and their associated <a href="/instruments/reflectance_plots/">plots</a>.
