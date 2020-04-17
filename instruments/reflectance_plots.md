@@ -3,6 +3,8 @@ layout: single
 title: Reflectance Plots
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 rtt: true
 ---
 ## Specular Reflectance - Black Materials

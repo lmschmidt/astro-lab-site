@@ -3,6 +3,8 @@ layout: single
 title: PreCal
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 rtt: true
 ---
 <b>Nicholas Mondrik</b>  

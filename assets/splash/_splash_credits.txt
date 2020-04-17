@@ -21,3 +21,8 @@ header:
   overlay_image: /assets/splash/jupiter.jpg
   overlay_filter: 0.15
   caption: "Photo credit: [NASA](https://nasa.gov)"
+
+header:
+  overlay_image: /assets/splash/tamu-astronomy.jpg
+  overlay_filter: 0.15
+  caption: "Photo credit: [D. Kim]()"

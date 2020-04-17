@@ -3,6 +3,8 @@ layout: single
 title: REU
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg  
 ---
 - [2019 pETSI](/instruments/petsi19/)
 - [2018 pETSI](/instruments/petsi18/)

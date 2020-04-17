@@ -3,6 +3,8 @@ layout: single
 title: pETSI 2018
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 toc: true
 rtt: true
 ---

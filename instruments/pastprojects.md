@@ -3,6 +3,8 @@ layout: single
 title: Past Lab Projects
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 ---
 - [AggieSpec](/instruments/aggiespec/)
 - [PreCal](/instruments/precal/)

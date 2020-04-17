@@ -3,6 +3,8 @@ layout: single
 title: Flat Field Screen Project
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 rtt: true
 ---
 *by Emily Boster*<br><br>

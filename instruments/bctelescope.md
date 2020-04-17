@@ -3,6 +3,8 @@ layout: single
 title: B&C Telescope
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 ---
 
 <figure>

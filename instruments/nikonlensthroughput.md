@@ -3,6 +3,8 @@ layout: single
 title: Studying the Throughput of a Commercial Lens
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 rtt: true
 ---
 Brendan Hill, May 2015

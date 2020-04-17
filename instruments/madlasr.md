@@ -3,6 +3,8 @@ layout: single
 title: MADLaSR
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 rtt: true
 ---
 ### Larry Gardner  

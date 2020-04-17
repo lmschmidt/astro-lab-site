@@ -3,6 +3,8 @@ layout: single
 title: Calypso
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 rtt: true
 ---
 <div style="max-width: 60%;margin:auto;" class="clearfix">

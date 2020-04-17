@@ -3,6 +3,8 @@ layout: single
 title: ETSI
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 toc: true
 rtt: true
 ---

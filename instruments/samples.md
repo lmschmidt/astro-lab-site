@@ -3,6 +3,8 @@ layout: single
 title: List of Samples
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 ---
 **Labeling Method:**  
 The labeling of the metal samples was done using a 3-letter ID system separated by periods. The first letter identifies the metal type (C: cast aluminum, A: 6061 aluminum, I: invar, S: stainless steel). The second letter signifies the initial metal treatment (R: raw, P: Polished, M: machined, B: Bead-Blasted). Finally, the last letter identifies the coating treatment of the sample (B: Black-Dye Anodization, H: Hardcoat Non-Dyed Anodization, N: Electroless Nickel Coating).  

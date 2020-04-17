@@ -3,6 +3,8 @@ layout: single
 title: LCO Calibration
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 ---
 The [Carnegie Supernova Project](http://csp1.lco.cl/~cspuser1/PUB/CSP.html), located at Las Companas Observatory in Chile, aims to take light curves and spectrophotometry of ~220 nearby Type Ia, II, and Ibc supernovae over a 5 year period.  
 We built a dome flat spectrophotometric calibration system for the Swope and the Dupont telescope used for this project. This system allows us to measure the color transfer functions for the entire optical path of the telescope (mirrors, filters, detector QE) over a wavelength range from 350nm to 1800nm (U, B, V, g, r, i, H, J filters). We do this by illuminating the telescope aperture with a uniform, quasi-monochromatic light source of known intensity. This calibration system consists of a tunable light source, a fiber delivery system, a screen and a photodiode monitoring system. Each part of the system is discussed briefly below:<br>  

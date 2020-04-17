@@ -3,6 +3,8 @@ layout: single
 title: Binospec
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 rtt: true
 ---
 Binospec is an imaging spectrograph with dual 8'x15' fields of view, and a very compact layout for excellent stability. It will be installed on the 6.5 meter MMT telescope in Arizona. The instrument was designed by Daniel Fabricant's group at the Smithsonian Astrophysical Observatory (SAO). Our lab is involved with the calibration portion of the instrument. Based on a design by SAO, we are fabricating and assembling the retractable calibration screen and derotator assembly.  

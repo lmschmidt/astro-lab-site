@@ -3,6 +3,8 @@ layout: single
 title: MADLaSR User Manual
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 ---
 **Larry Gardner**  
 *07/25/2017*  

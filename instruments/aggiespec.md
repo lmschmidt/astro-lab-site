@@ -3,6 +3,8 @@ layout: single
 title: AggieSpec
 sidebar:
   nav: "side"
+header:
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 rtt: true
 ---
 <b>An Instrument for the 1.54m Telescope at the Astronomical Observatory of Córdoba</b>  
