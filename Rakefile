@@ -32,7 +32,7 @@ end
   task :build do
     print "If you wish to make a website from scratch, you must first invent the universe.\n"
     system "env LANG=\"en_US.UTF-8\" bundle exec jekyll build --destination /Library/WebServer/Documents/ --watch" # environmental variable to fix locale issue
-    system "chmod -R 775 ../jekylltest >/dev/null" # re-distribute permissions so others can build site
+    #system "chmod -R 775 ../jekylltest >/dev/null" # re-distribute permissions so others can build site
     print " Reinstating group permissions...\n\x1b[32m Build complete.\x1b[0m\n"
   end
 task :preview do
