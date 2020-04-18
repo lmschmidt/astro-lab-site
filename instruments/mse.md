@@ -4,7 +4,7 @@ title: MSE
 sidebar:
   nav: "side"
 header:
-  image: /instruments/assets/banners/tamu-astronomy.jpg
+  image: /instruments/assets/banners/mse-tamu-astronomy.jpg
 toc: true
 rtt: true
 ---

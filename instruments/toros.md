@@ -4,7 +4,7 @@ title: TOROS
 sidebar:
   nav: "side"
 header:
-  image: /instruments/assets/banners/tamu-astronomy.jpg
+  image: /instruments/assets/banners/toros-tamu-astronomy.jpg
 toc: true
 rtt: true
 ---
