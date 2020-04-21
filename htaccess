@@ -1,0 +1,79 @@
+---
+layout: null
+permalink: .htaccess
+---
+
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
+
+# redirect all files in publications folder to new folder
+RewriteCond %{REQUEST_URI} !^/publications/assets
+RewriteRule ^publications(.*)$ /publications/assets$1 [R=302,NC,L]
+
+ErrorDocument 404 https://instrumentation.tamu.edu/404.html
+
+Header append X-FRAME-OPTIONS "SAMEORIGIN"
+
+<FilesMatch "\.htaccess|backup\.htaccess">
+order allow,deny
+deny from all
+</FilesMatch>
+
+# redirect old website links to new website after 2020-04 redesign
+Redirect 301 /Astrocal.html /instruments/astrocal/
+Redirect 301 /DES.html /instruments/des/
+Redirect 301 /DESpec.html /instruments/despec/
+Redirect 301 /DeCal.html /instruments/decal/
+Redirect 301 /DuOCam.html /instruments/duocam/
+Redirect 301 /LIGOcam.html /instruments/pastprojects/
+Redirect 301 /PreCal.html /instruments/precal/
+Redirect 301 /REU.html /pages/reu/
+Redirect 301 /REU2014.html /pages/reu/#reu-2014
+Redirect 301 /REU2015.html /pages/reu/#reu-2015
+Redirect 301 /REU2016.html /pages/reu/#reu-2016
+Redirect 301 /REU2017.html /pages/reu/#reu-2017
+Redirect 301 /REU2018.html /pages/reu/#reu-2018
+Redirect 301 /VIRUS/docs.html /instruments/hetdex/
+Redirect 301 /aTmCam.html /instruments/atmcam/
+Redirect 301 /aTmCam1.html /instruments/atmcam/
+Redirect 301 /aTmCam2.html /instruments/atmcam/
+Redirect 301 /aTmCam3.html /instruments/atmcam/
+Redirect 301 /aggiespec.html /instruments/aggiespec/
+Redirect 301 /alumni.html /pages/phdalumni/
+Redirect 301 /awards.html /pages/honors/
+Redirect 301 /bctelescope.html /instruments/bctelescope/
+Redirect 301 /binospec.html /instruments/binospec/
+Redirect 301 /calypso.html /instruments/calypso/
+Redirect 301 /cargille.html /instruments/cargille/
+Redirect 301 /contact.html /pages/contact/
+Redirect 301 /des.html /instruments/des/
+Redirect 301 /flat_fielding.html /instruments/flatfielding/
+Redirect 301 /gmacs-etc.html?v=2.0 /etc_gmacs
+Redirect 301 /gmacs.html /instruments/gmacs/
+Redirect 301 /gmacs_ms.html /instruments/gmacs-ms/
+Redirect 301 /gmt.html /instruments/gmt/
+Redirect 301 /hetdex.html /instruments/hetdex/
+Redirect 301 /lco.html /instruments/lco/
+Redirect 301 /madlasr.html /instruments/madlasr/
+Redirect 301 /moosci.html /instruments/moosci/
+Redirect 301 /outReach.html /pages/outreach/
+Redirect 301 /pastprojects.html /instruments/pastprojects/
+Redirect 301 /people.html /people/index/
+Redirect 301 /physfestival.html /pages/physicsfestival/
+Redirect 301 /precaldocumentation.html /instruments/precal_docs/
+Redirect 301 /press.html /press/
+Redirect 301 /previous_team_members.html /people/previous/
+Redirect 301 /publications.html /publications/index/
+Redirect 301 /reflectance.html /instruments/reflectance/
+Redirect 301 /samples.html /instruments/samples/
+Redirect 301 /schedule.html /pages/calendar/
+Redirect 301 /specular.html /instruments/reflectance/
+Redirect 301 /starparty.html /pages/starparty/
+Redirect 301 /throughput.html /instruments/nikonlensthroughput/
+Redirect 301 /total.html /instruments/reflectance/
+Redirect 301 /usefuldocuments.html /pages/usefuldocs/
+Redirect 301 /virus.html /instruments/hetdex/
+Redirect 301 /viruscollimators.html /instruments/hetdex/#virus-collimators
+Redirect 301 /virusenclosures.html /instruments/hetdex/#virus-enclosures
