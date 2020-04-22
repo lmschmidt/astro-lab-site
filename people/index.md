@@ -33,7 +33,7 @@ Irfan is a Mechanical Engineering Specialist. He graduated from Texas A&amp;M Un
 ## Leonardo Barba
 <img src="../people/assets/leonardo_barba.jpg" width="150" style='margin-top:6px' style='margin-top:6px' alt="Leonardo Barba" class="profile"/>Leonardo Barba is an undergraduate Physics major who has been working on hardware and software for TCal and ETSI while also helping put together ETSI. He also helps with general lab necessities and monthly Star Parties.
 <div class="clearfix" />
-## Doyeon Kim
+## Leonardo Bush
 <img src="../people/assets/leonardo_bush.jpg" width="150" style='margin-top:6px' style='margin-top:6px' alt="Doyeon Kim" class="profile"/>Leonardo Bush is an undergraduate Physics major minoring in Computer Science and Mathematics. He works on multiple projects around in the lab that include GMT Actuators, MUTE, and TCAL. His work includes designing new ideas and coming up with solutions to any challenge that needs to be tackled.
 <div class="clearfix" />
 ## Cole Mason
