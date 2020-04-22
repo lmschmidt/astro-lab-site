@@ -52,7 +52,7 @@ McDonald 0.9m in July 2019. The prototype instrument successfully measured the c
 in Figure 3.
 <figure>
   <a href="/instruments/assets/etsi/Figure3_OnSkyData.jpg" target="_blank"><img src="/instruments/assets/etsi/Figure3_OnSkyData.jpg" alt="On Sky Data"></a>
-  <figcaption>Figure 3: Measurement of two colors of WASP-3b during transit with a prototype of the ETSI instrument on the McDonald 0.9 mtelescope in July of 2019.  An on-sky accuracy of 340ppm with 122 mintues of transit data on Wasp-3 (V = 10.6) at &lambda;=510 nm (FWHM = 16nm).</figcaption>
+  <figcaption>Figure 3: Measurement of two colors of WASP-3b during transit with a prototype of the ETSI instrument on the McDonald 0.9 mtelescope in July of 2019.  An on-sky accuracy of 340ppm with 122 minutes of transit data on Wasp-3 (V = 10.6) at &lambda;=510 nm (FWHM = 16nm).</figcaption>
 </figure>
 
 ## Current Status
