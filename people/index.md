@@ -18,7 +18,7 @@ rtt: true
 <div class="clearfix" />
 ## Mary Anne Limbach
 <img src="../people/assets/maryanne_limbach.jpg" width="150" style='margin-top:6px' alt="Mary Anne Limbach" class="profile"/>
-Mary Anne Limbach is an Optical Engineer in the Astronomical Instrumentation Lab where she working on [GMACS](/instruments/gmacs/) Mrs. Limbach has worked in the instrumentation field for nearly a dozen years and has been lead optical engineer on several instruments including an exoplanet direct-imaging integral field spectrograph (CHARIS) for the Subaru telescope built at Princeton University and an instrument designed to test coronagraphs (BESSEL) at the University of Arizona.
+Mary Anne Limbach is an Optical Engineer and exoplanet scientist in the Astronomical Instrumentation Lab where she works on the Exoplanet Transmission Spectroscopy Imager (ETSI). Her research interests are in new instrumentation and methods for detecting and characterizing exoplanets and exomoons via direct imaging and transit spectroscopy. 
 <div class="clearfix" />
 ## Irfan Beg
 <img src="../people/assets/irfan_beg.jpg" width="150" style='margin-top:6px' alt="Irfan Beg" class="profile"/>
