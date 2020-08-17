@@ -6,13 +6,13 @@ permalink: .htaccess
 Options +FollowSymLinks
 RewriteEngine On
 RewriteCond %{HTTPS} off
-RewriteCond %{THE_REQUEST} !/etc_gmacs/ [NC]
-#RewriteCond %{THE_REQUEST} !/reflectance-plots/ [NC]
+#RewriteCond %{THE_REQUEST} !/etc_gmacs/ [NC]
+RewriteCond %{THE_REQUEST} !/reflectance-plots/ [NC]
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
 
 RewriteCond %{HTTPS} on
-RewriteCond %{THE_REQUEST} /etc_gmacs/ [NC]
-#RewriteCond %{THE_REQUEST} /reflectance-plots/ [NC]
+#RewriteCond %{THE_REQUEST} /etc_gmacs/ [NC]
+RewriteCond %{THE_REQUEST} /reflectance-plots/ [NC]
 RewriteRule ^(.*)$ http://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
 
 # redirect all files in publications folder to new folder
