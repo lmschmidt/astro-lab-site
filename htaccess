@@ -6,18 +6,12 @@ permalink: .htaccess
 Options +FollowSymLinks
 RewriteEngine On
 RewriteCond %{HTTPS} off
-RewriteCond %{THE_REQUEST} !/etc_gmacs/ [NC]
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
-
-RewriteCond %{HTTPS} off
+RewriteCond %{THE_REQUEST} !/etc_gmacs/ [NC, OR]
 RewriteCond %{THE_REQUEST} !/reflectance-plots/ [NC]
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
 
 RewriteCond %{HTTPS} on
-RewriteCond %{THE_REQUEST} /etc_gmacs/ [NC]
-RewriteRule ^(.*)$ http://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
-
-RewriteCond %{HTTPS} on
+RewriteCond %{THE_REQUEST} /etc_gmacs/ [NC, OR]
 RewriteCond %{THE_REQUEST} /reflectance-plots/ [NC]
 RewriteRule ^(.*)$ http://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
 
