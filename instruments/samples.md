@@ -46,7 +46,7 @@ function off() {
   <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        Labsphere Inc. SRS-05-010<br><font size="+0"><a onclick="on('/instruments/assets/materials/black/plots/srs05.jpg'); return false;" href="/">View Plot</a></font>
+        Labsphere Inc. SRS-05-010<br><font size="+0"><a onclick="on('/instruments/assets/materials/plots/total/black/srs05.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -65,7 +65,7 @@ max-height:100%;">
   <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        A.R.B<br><font size="+0"><a onclick="on('/instruments/assets/materials/black/plots/alumblack.jpg'); return false;" href="/">View Plot</a></font>
+        A.R.B<br><font size="+0"><a onclick="on('/instruments/assets/materials/plots/total/black/alumblack.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -84,7 +84,7 @@ max-height:100%;">
   <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        A.M.B<br><font size="+0"><a onclick="on('/instruments/assets/materials/black/plots/alumblack.jpg'); return false;" href="/">View Plot</a></font>
+        A.M.B<br><font size="+0"><a onclick="on('/instruments/assets/materials/plots/total/black/alumblack.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -103,7 +103,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        A.P.B<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/alumblack.jpg'); return false;" href="/">View Plot</a></font>
+        A.P.B<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/alumblack.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -122,7 +122,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        A.B.B<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/alumblack.jpg'); return false;" href="/">View Plot</a></font>
+        A.B.B<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/alumblack.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -141,7 +141,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        A.R.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/alumhard.jpg'); return false;" href="/">View Plot</a></font>
+        A.R.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/alumhard.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -160,7 +160,7 @@ max-height:100%;">
   <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        A.M.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/alumhard.jpg'); return false;" href="/">View Plot</a></font>
+        A.M.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/alumhard.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -179,7 +179,7 @@ max-height:100%;">
   <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        A.P.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/alumhard.jpg'); return false;" href="/">View Plot</a></font>
+        A.P.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/alumhard.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -198,7 +198,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        A.B.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/alumhard.jpg'); return false;" href="/">View Plot</a></font>
+        A.B.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/alumhard.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -217,7 +217,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        C.R.B<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/castblack.jpg'); return false;" href="/">View Plot</a></font>
+        C.R.B<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/castblack.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -236,7 +236,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        C.M.B<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/castblack.jpg'); return false;" href="/">View Plot</a></font>
+        C.M.B<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/castblack.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -255,7 +255,7 @@ max-height:100%;">
   <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        C.P.B<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/castblack.jpg'); return false;" href="/">View Plot</a></font>
+        C.P.B<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/castblack.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -274,7 +274,7 @@ max-height:100%;">
   <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        C.B.B<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/castblack.jpg'); return false;" href="/">View Plot</a></font>
+        C.B.B<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/castblack.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -293,7 +293,7 @@ max-height:100%;">
   <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        C.R.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/casthard.jpg'); return false;" href="/">View Plot</a></font>
+        C.R.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/casthard.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -312,7 +312,7 @@ max-height:100%;">
   <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        C.M.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/casthard.jpg'); return false;" href="/">View Plot</a></font>
+        C.M.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/casthard.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -331,7 +331,7 @@ max-height:100%;">
   <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        C.P.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/casthard.jpg'); return false;" href="/">View Plot</a></font>
+        C.P.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/casthard.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -350,7 +350,7 @@ max-height:100%;">
   <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        C.B.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/casthard.jpg'); return false;" href="/">View Plot</a></font>
+        C.B.H<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/casthard.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -369,7 +369,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        I.R.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/invar.jpg'); return false;" href="/">View Plot</a></font>
+        I.R.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/invar.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -388,7 +388,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        I.M.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/invar.jpg'); return false;" href="/">View Plot</a></font>
+        I.M.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/invar.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -408,7 +408,7 @@ max-height:100%;">
   <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        I.P.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/invar.jpg'); return false;" href="/">View Plot</a></font>
+        I.P.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/invar.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -428,7 +428,7 @@ max-height:100%;">
   <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        I.R.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/invar.jpg'); return false;" href="/">View Plot</a></font>
+        I.R.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/invar.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -448,7 +448,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        I.P.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/invar.jpg'); return false;" href="/">View Plot</a></font>
+        I.P.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/invar.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -468,7 +468,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        S.R.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/steel.jpg'); return false;" href="/">View Plot</a></font>
+        S.R.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/steel.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -488,7 +488,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        S.M.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/steel.jpg'); return false;" href="/">View Plot</a></font>
+        S.M.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/steel.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -508,7 +508,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        S.P.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/steel.jpg'); return false;" href="/">View Plot</a></font>
+        S.P.N<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/steel.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -528,7 +528,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        Permanent Marker on Aluminum<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/permmarkalum.png'); return false;" href="/">View Plot</a></font>
+        Permanent Marker on Aluminum<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/permmarkalum.png'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -548,7 +548,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column' >
-        Weathered Permanent Marker on Aluminum<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/permmarkalum.png'); return false;" href="/">View Plot</a></font>
+        Weathered Permanent Marker on Aluminum<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/permmarkalum.png'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -568,7 +568,7 @@ max-height:100%;">
 <div class='sample-row'>
     <div class='sample-column'>
       <div class='first-column'>
-        Black Masking Tape<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/thorlabs.png'); return false;" href="/">View Plot</a></font>
+        Black Masking Tape<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/thorlabs.png'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -585,7 +585,7 @@ max-height:100%;">
 
 <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Black Aluminum Foil<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/thorlabs.png'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Black Aluminum Foil<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/thorlabs.png'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -602,7 +602,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Blackout Fabric<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/thorlabs.png'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Blackout Fabric<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/thorlabs.png'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -619,7 +619,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Black Foam Board<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/badsamples.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Black Foam Board<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/badsamples.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -636,7 +636,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Black Foam Board<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/badsamples.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Black Foam Board<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/badsamples.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -653,7 +653,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Black Dry Erase<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/goodsamples.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Black Dry Erase<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/goodsamples.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -670,7 +670,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Black Duct Tape<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/goodsamples.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Black Duct Tape<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/goodsamples.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -687,7 +687,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Black Velcro<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/badsamples.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Black Velcro<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/badsamples.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -704,7 +704,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Black Electrical Tape<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/goodsamples.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Black Electrical Tape<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/goodsamples.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -721,7 +721,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Black Felt<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/goodsamples.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Black Felt<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/goodsamples.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -738,7 +738,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Black Construction Paper<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/badsamples.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Black Construction Paper<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/badsamples.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -755,7 +755,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Valspar<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/goodsamples.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Valspar<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/goodsamples.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -772,7 +772,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Rustoleum<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/goodsamples.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Rustoleum<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/goodsamples.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -789,7 +789,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Spray Paint<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/goodsamples.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Spray Paint<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/goodsamples.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -806,7 +806,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Acktar Fractal Black<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/acktarrhodes.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Acktar Fractal Black<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/acktarrhodes.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -823,7 +823,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Acktar Metal Velvet<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/acktarrhodes.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Acktar Metal Velvet<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/acktarrhodes.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -839,7 +839,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Rhodes LP Polisher<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/acktarrhodes.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Rhodes LP Polisher<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/acktarrhodes.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -856,7 +856,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Flock 55<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/edmund.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Flock 55<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/edmund.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
@@ -873,7 +873,7 @@ max-height:100%;">
 
   <div class='sample-row'>
     <div class='sample-column'>
-      <div class='first-column'>Flock 65<br><font size="+1"><a onclick="on('/instruments/assets/materials/black/plots/edmund.jpg'); return false;" href="/">View Plot</a></font>
+      <div class='first-column'>Flock 65<br><font size="+1"><a onclick="on('/instruments/assets/materials/plots/total/black/edmund.jpg'); return false;" href="/">View Plot</a></font>
       </div>
     </div>
     <div class='sample-column'>
