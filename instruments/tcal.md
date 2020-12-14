@@ -28,27 +28,29 @@ To create the tunable light source we start by generating broadband light using 
 </figure>
 
 ## Projection
-We place a custom fiber bundle at the ouput of the monochromator. One fiber, from the bundle of 10, illuminates a monitoring spectrometer that gives us real time information on the output bandpass. The rest of the fibers are used to illuminate the flat field screen. This is done by placing an Engeneered Diffuser (EDC) between the fiber and screen. The material for the flat field screen is chosen to be highly reflective and lambertian over the spectral range we are calibrating. We use a nylon-spandex mix from strechyscreens.com for more information check out our white and black materials testing at (link).
+We place a custom fiber bundle at the ouput of the monochromator. One fiber, from the bundle of 10, illuminates a monitoring spectrometer that gives us real time information on the output bandpass. The rest of the fibers are used to illuminate the flat field screen. This is done by placing an Engeneered Diffuser (EDC) between the fiber and screen. The material for the flat field screen is chosen to be highly reflective and lambertian over the spectral range we are calibrating. We use a nylon-spandex mix from strechyscreens.com for more information check out our white and black materials testing [here](/instruments/reflectance/).
 
 ## Monitor CCD
 A SBIG 8300M CCD is used as the monitoring detector. This CCD has been calibrated using a NIST calibrated photodiode, and works better than the photodiode in the low signal to noise regime. 
 
 <figure>
   <a href="/instruments/assets/tcal/tcal_lab.jpg" target="_blank"><img src="/instruments/assets/tcal/tcal_lab.jpg" alt="tcal_lab"></a>
-  <figcaption>Figure 3: Image of TCal in lab.</figcaption>
+  <figcaption>Figure 3: Image of TCal in the lab.</figcaption>
 </figure>
 
 ## Software
-The Labview scan software and data recduction notebooks as well as a list of the other required software and drivers can be found at https://github.com/psferguson/TCal (should probably have a local repo as well)
+The Labview scan software and data recduction notebooks as well as a list of the other required software and drivers can be found at [https://github.com/psferguson/TCal](https://github.com/psferguson/TCal)
 
 ## ETSI Scan
-In the summer of 2019 TCal was taken along with ETSI to the 0.9M telescope at McDonald Observatory. As part of the testing of ETSI we scanned the mounted system using TCal. The results of this scan are shown below in Figure 5, we were able to make a measurement of the relative tranmission of the system with ~1 % accuracy. The alluxa filter curve transmission is also plotted as a dashed line showing that the filter matches the requested specifications. I think I also want to add an image of the mounted instrument at Mcdonald observatory. 
+In the summer of 2019 TCal was taken along with [ETSI](/instruments/etsi/) to the 0.9M telescope at McDonald Observatory. As part of the testing of ETSI we scanned the mounted system using TCal. The results of this scan are shown below in Figure 5, we were able to make a measurement of the relative tranmission of the system with ~1 % accuracy. 
+
+[comment]: # (The Alluxa filter curve transmission is also plotted as a dashed line showing that the filter matches the requested specifications.) 
 
 <figure>
-  <a href="/instruments/assets/tcal/schematic.png" target="_blank"><img src="/instruments/assets/tcal/schematic.png" alt="schematic"></a>
+  <a href="/instruments/assets/tcal/190630_etsi_scan_smoothed.png" target="_blank"><img src="/instruments/assets/tcal/190630_etsi_scan_smoothed.png" alt="etsiscan"></a>
   <figcaption>Figure 4: An example scan of a prototype version of ETSI on the McDonald Observatory 0.9m telescope.</figcaption>
 </figure>
 
 # Additional Resources
 
-For more information check out our 2018 SPIE paper (link) or poster. The software used for tcal can be found on the the team drive and the TCal github repo (link) 
+For more information check out our [2018 SPIE paper](/publications/assets/2018-SPIE-10702-119-TCal_paper_1.pdf) or [poster](/publications/assets/2018-SPIE-10702-119-TCal_poster.pdf). The software used for tcal can be found on the the team drive and the TCal github repo [link](https://github.com/psferguson/TCal) 
