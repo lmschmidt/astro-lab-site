@@ -20,7 +20,7 @@ The TCal system consists of a few main components- a tunable light source, a pro
 </figure>
 
 ## Tunable Light Source
-To create the tunable light source we start by generating broadband light using an EQ-99x laser driven light source manufactured by Energetiq. This source provides strong emission from 170nm to 1700nm as shown in the Figure 2 below which entirely encompases the spectral range we plan to calibrate. This light is fed through a F108w filter wheel that can be controlled by our software, and contains short-pass and long-pass filters used to prevent out of band light in the output of the monochromator (eg. order-blocker filters). Finally the light is injected into an f/4 Czerny-Turner type monochromator that is used to select a ~2 nm bandpass to project. 
+To create the tunable light source we start by generating broadband light using an EQ-99x laser driven light source manufactured by Energetiq. This source provides strong emission from 170nm to 1700nm as shown in the Figure 2 below which entirely encompases the spectral range we plan to calibrate. This light is fed through a F108w filter wheel that can be controlled by our software, and contains short-pass and long-pass filters used to prevent out of band light in the output of the monochromator (eg. order-blocker filters). Finally the light is injected into an f/4 Czerny-Turner type monochromator that is used to select a ~2 nm bandpass to project.
 
 <figure>
   <a href="/instruments/assets/tcal/EQ-99X_sprad.png" target="_blank"><img src="/instruments/assets/tcal/EQ-99X_sprad.png" alt="EQ-99x"></a>
@@ -42,15 +42,13 @@ A SBIG 8300M CCD is used as the monitoring detector. This CCD has been calibrate
 The Labview scan software and data recduction notebooks as well as a list of the other required software and drivers can be found at [https://github.com/psferguson/TCal](https://github.com/psferguson/TCal)
 
 ## ETSI Scan
-In the summer of 2019 TCal was taken along with [ETSI](/instruments/etsi/) to the 0.9M telescope at McDonald Observatory. As part of the testing of ETSI we scanned the mounted system using TCal. The results of this scan are shown below in Figure 5, we were able to make a measurement of the relative tranmission of the system with ~1 % accuracy. 
-
-[comment]: # (The Alluxa filter curve transmission is also plotted as a dashed line showing that the filter matches the requested specifications.) 
+In the summer of 2019 TCal was taken along with ETSI to the 0.9M telescope at McDonald Observatory. As part of the testing of ETSI we scanned the mounted system using TCal. The results of this scan are shown below in Figure 4 as a blue line, we were able to make a measurement of the relative tranmission of the system with ~1 % accuracy. The dashed black line shows the predicted transmison calculated from lab measurements of an Alluxa Quad band filter, 435 nm long pass filter, and STF 8300M CCD quantum efficency curve.
 
 <figure>
-  <a href="/instruments/assets/tcal/190630_etsi_scan_smoothed.png" target="_blank"><img src="/instruments/assets/tcal/190630_etsi_scan_smoothed.png" alt="etsiscan"></a>
+  <a href="/instruments/assets/tcal/etsi_scan_summer_2019.png" target="_blank"><img src="/instruments/assets/tcal/etsi_scan_summer_2019.png" alt="etsiscan"></a>
   <figcaption>Figure 4: An example scan of a prototype version of ETSI on the McDonald Observatory 0.9m telescope.</figcaption>
 </figure>
 
 # Additional Resources
 
-For more information check out our [2018 SPIE paper](/publications/assets/2018-SPIE-10702-119-TCal_paper_1.pdf) or [poster](/publications/assets/2018-SPIE-10702-119-TCal_poster.pdf). The software used for tcal can be found on the the team drive and the TCal github repo [link](https://github.com/psferguson/TCal) 
+For more information check out our [2018 SPIE paper](/publications/assets/2018-SPIE-10702-119-TCal_paper_1.pdf) or [poster](/publications/assets/2018-SPIE-10702-119-TCal_poster.pdf). The software used for tcal can be found on the TCal github repo [link](https://github.com/psferguson/TCal) 
