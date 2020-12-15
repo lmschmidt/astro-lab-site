@@ -9,9 +9,7 @@ toc: true
 rtt: true
 ---
 ## Introduction
-Texas A&amp;M is currently developing a new type of instrument designed specifically for taking
-transmission spectra of transiting exoplanets. The Exoplanet Transmission Spectroscopy Imager (ETSI)
-instrument uses a prism and multiband filter to simultaneously image 15 bandpasses from 430-975nm
+Texas A&amp;M is currently developing a new type of instrument designed specifically for taking transmission spectra of transiting exoplanets. The Exoplanet Transmission Spectroscopy Imager (ETSI) instrument uses a prism and multiband filter to simultaneously image 15 bandpasses from 430-975nm 
 during exoplanet transits (a full list of ETSI parameters is given in Table 1).
 
 #### Table 1: ETSI Instrument Parameters
@@ -66,5 +64,15 @@ specifically to maximize sensitivity to these features.
 <figure>
   <a href="/instruments/assets/etsi/Figure4_SimExoplanetSpectra.jpg" target="_blank"><img src="/instruments/assets/etsi/Figure4_SimExoplanetSpectra.jpg" alt="Simulated Spectra"></a>
   <figcaption>Figure 4: Simulated spectra of T=600K (left) and 1000K (right) Jupiters with ETSI spectral bands overlaid. Gray bands are transmitted and red bands are reflected by the multi-band filter.  Plots illustrate that the 15 tuned ETSI spectral bands shoudl be sensitive to six atmospheric features.</figcaption>
+</figure>
+
+<figure>
+  <a href="/instruments/assets/etsi/etsi-prism.jpg" target="_blank"><img src="/instruments/assets/etsi/etsi-prism.jpg" alt="prism"></a>
+  <figcaption>Figure 5: One of the ETSI prisms in the lab.</figcaption>
+</figure>
+
+<figure>
+  <a href="/instruments/assets/etsi/optical-breadboard.jpg" target="_blank"><img src="/instruments/assets/etsi/optical-breadboard.jpg" alt="breadboard"></a>
+  <figcaption>Figure 6: Lightweight optical breadboard for mounting ETSI optics and detectors.</figcaption>
 </figure>
 The ETSI project is funded by the NSF MRI grant no. 1920312.
