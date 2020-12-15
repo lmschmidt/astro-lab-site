@@ -18,7 +18,7 @@ Parts arrive from various machine shops and need to be cleaned to remove any res
   <figcaption>Figure 1: Parts are cleaned before assembly using an ultrasonic cleaner.</figcaption>
 </figure>
 
-Machined parts and all required hardware are collected into 'kits' to ensure all parts are available before assembly starts, and also to allow for verification that no parts were left out during assembly (the 'kit' should be empty after assembly is complete). 
+Machined parts and all required hardware are collected into kits to ensure all parts are available before assembly starts, and also to allow for verification that no parts were left out during assembly (the kit should be empty after assembly is complete). 
 <figure>
   <a href="/instruments/assets/gmtactuators/leo-assembly.jpg" target="_blank"><img src="/instruments/assets/gmtactuators/leo-assembly.jpg" alt="assembly"></a>
   <figcaption>Figure 2: The lab has four work stations, each with a complete set of the required tools to allow multiple air cylinders to be assembled simultaneously.</figcaption>
