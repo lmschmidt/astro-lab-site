@@ -29,6 +29,8 @@ side:
           kiddos:
           - title: "SCal"
             url: /instruments/scal
+        - title: "FOCUSS"
+          url: /instruments/focuss    
         - title: "TCal"
           url: /instruments/tcal/
         - title: "TOROS"
