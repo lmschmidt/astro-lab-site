@@ -26,6 +26,9 @@ side:
           url: /instruments/etsi/
         - title: "MSE"
           url: /instruments/mse/
+          kiddos:
+          - title: "SCal"
+            url: /instruments/scal
         - title: "TCal"
           url: /instruments/tcal/
         - title: "TOROS"

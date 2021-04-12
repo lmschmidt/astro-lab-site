@@ -51,6 +51,6 @@ In the summer of 2019 TCal was taken along with [ETSI](/instruments/etsi/) to th
 
 # Additional Resources
 
-* For more information check out our [2018 SPIE paper](/publications/assets/2018-SPIE-10702-119-TCal_paper_1.pdf) or [poster](/publications/assets/2018-SPIE-10702-119-TCal_poster.pdf). 
+* For more information check out our [2020 SPIE paper](/publications/assets/2020-SPIE-11447-108-Further_development_and_testing_of_TCal-a_mobile_spectrophotometric_calibration_unit_for_astronomical_imaging_systems_paper.pdf), [2020 SPIE poster](/publications/assets/2020-SPIE-11447-108-Further_development_and_testing_of_TCal-a_mobile_spectrophotometric_calibration_unit_for_astronomical_imaging_systems_poster.pdf),[2018 SPIE paper](/publications/assets/2018-SPIE-10702-119-TCal_paper_1.pdf) or [2018 SPIE poster](/publications/assets/2018-SPIE-10702-119-TCal_poster.pdf). 
 
 * The software used for tcal can be found on the TCal github repo [link](https://github.com/psferguson/TCal) 

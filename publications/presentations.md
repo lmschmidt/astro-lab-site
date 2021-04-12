@@ -6,6 +6,25 @@ sidebar:
 toc: true
 rtt: true
 ---
+## SPIE Meeting 2020
+<h4>The Exoplanet Transmission Spectroscopy Imager (ETSI)</h4>
+<font size="-1">
+	Mary Anne Limbach, Luke M. Schmidt, D. L. DePoy, Jeffrey C. Mason, Mike Scobey, Pat Brown, Chelsea Taylor, Jennifer L. Marshall, "," Proc. SPIE 11447, Ground-based and Airborne Instrumentation for Astronomy VIII, 114477D (13 December 2020); https://doi.org/10.1117/12.2562371</a><br>
+	<a href="/publications/assets/2020-SPIE-11447-100-The_exoplanet_transmission_spectroscopy_imager-ETSI_paper.pdf">target="_blank">(PDF)</a> <a href="/publications/assets/2020-SPIE-11447-100-The_exoplanet_transmission_spectroscopy_imager-ETSI_poster.pdf" target="_blank">(Poster)</a>
+</font>
+
+<h4>Further development and testing of TCal: a mobile spectrophotometric calibration unit for astronomical imaging systems</h4>
+<font size="-1">
+	P. S. Ferguson, L. Barba, D. L. DePoy, L. M. Schmidt, J. L. Marshall, T. Prochaska, L. Bush, J. Mason, M. Sauseda, Proc. SPIE 11447, Ground-based and Airborne Instrumentation for Astronomy VIII, 114475U (13 December 2020); <a href="https://doi.org/10.1117/12.2562736" target="_blank">https://doi.org/10.1117/12.2562736</a><br>
+	<a href="/publications/assets/2020-SPIE-11447-108-Further_development_and_testing_of_TCal-a_mobile_spectrophotometric_calibration_unit_for_astronomical_imaging_systems_paper.pdf">target="_blank">(PDF)</a> <a href="/publications/assets/2020-SPIE-11447-108-Further_development_and_testing_of_TCal-a_mobile_spectrophotometric_calibration_unit_for_astronomical_imaging_systems_poster.pdf" target="_blank">(Poster)</a>
+</font>
+
+<h4>Characterization of the reflectivity of various black and white materials</h4>
+<font size="-1">
+	Luke M. Schmidt, Lauren N. Aldoroty, Yasin Alam, Leonardo Bush, D. L. DePoy, Matthew Holden, Doyeon Kim, J. L. Marshall, Mason Perkey, Proc. SPIE 11451, Advances in Optical and Mechanical Technologies for Telescopes and Instrumentation IV, 114512S (13 December 2020); <a href="https://doi.org/10.1117/12.2562759" target="_blank">https://doi.org/10.1117/12.2562759</a><br>
+	<a href="/publications/assets/2020-SPIE-11451-129-Characterization_of_the_Reflectivity_of_Various_Black_and_White_Materials_paper.pdf">target="_blank">(PDF)</a> <a href="/publications/assets/2020-SPIE-11451-129-Characterization_of_the_Reflectivity_of_Various_Black_and_White_Materials_poster.pdf" target="_blank">(Poster)</a>
+</font>
+
 ## SPIE Meeting 2018
 <h4>Characterization of the reflectivity of various black materials II</h4>
 <font size="-1">
