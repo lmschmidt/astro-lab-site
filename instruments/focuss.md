@@ -1,28 +1,23 @@
 ---
 layout: single
-title: TOROS
+title: FOCUSS
 sidebar:
   nav: "side"
 header:
-  image: /instruments/assets/banners/toros-tamu-astronomy.jpg
+  image: /instruments/assets/banners/tamu-astronomy.jpg
 toc: true
 rtt: true
 ---
-![Optical Layout](/instruments/assets/toros/Observatory_at_the_Cordon_Macon.jpg "Observatory at the Cordon Macon")
-*The Observatory at Cordón Macón, in the remote Atacama region of northwestern Argentina.*
-
 ## Introduction
-The Transient Optical Robotic Observatory of the South, [(TOROS)](https://toros.utrgv.edu/) is being developed as a facility to detect and characterize transient astronomical phenomena including electromagnetic counterparts to gravitational wave sources. It will operate robotically and is expected to be fully operational in 2021.
+In order for fiber-fed spectroscopic instruments on large telescopes to live up to their full potential, both innovative hardware and advanced software techniques must be developed so that appropriate levels of sky subtraction can be realized.
+Fiber Optic Characterization for Unprecedented Sky Subtraction (FOCUSS) is a recently funded (NSF Grant 2009430) project to develop the techniques, software, and hardware required to characterize fiber optics in order to remove the influence of changing focal ratio degradation, transmission, defocus and other effects over many fibers, and during a years long spectroscopic survey.  This will ensure that spectra taken at different times, air masses, through different fibers, etc. will be comparable.
 
-## Site
-Located at Cordón Macón in Salta Province, Argentina, 4660 m elevation.
+This project is ongoing and the sections below will be updated as progress is made.
 
-## Telescope, Corrector, and Filters
-The telescope is a [Planewave CDK24](http://planewave.com/products-page/telescopes/24-inch-cdk-optical-tube-assembly/) (*f*/6.5 Corrected Dall-Kirkham)
+## FRD
 
-![Optical Layout](/instruments/assets/toros/toros-layout.jpg "TOROS optical layout")
+## Transmission
 
-The PlaneWave CDK24 will be modified to include a tertiary mirror, three N-BK7 corrector lenses, a fold mirror, and filters (LSST g,r,i,z, and 550-950 nm broadband).
+## Tilting Spine Fiber Positioner
 
-## Detector
-The TOROS detector is a STA1600LN a 10560 x 10560 pixel (9 &mu;m) CCD with a 95.04mm x 95.04mm image area. Plate scale is 0.47"/px with a 1.9 square degree field of view.
+
