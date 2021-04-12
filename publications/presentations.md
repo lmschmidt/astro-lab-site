@@ -9,7 +9,7 @@ rtt: true
 ## SPIE Meeting 2020
 <h4>The Exoplanet Transmission Spectroscopy Imager (ETSI)</h4>
 <font size="-1">
-	Mary Anne Limbach, Luke M. Schmidt, D. L. DePoy, Jeffrey C. Mason, Mike Scobey, Pat Brown, Chelsea Taylor, Jennifer L. Marshall, "," Proc. SPIE 11447, Ground-based and Airborne Instrumentation for Astronomy VIII, 114477D (13 December 2020); https://doi.org/10.1117/12.2562371</a><br>
+	Mary Anne Limbach, Luke M. Schmidt, D. L. DePoy, Jeffrey C. Mason, Mike Scobey, Pat Brown, Chelsea Taylor, Jennifer L. Marshall, "," Proc. SPIE 11447, Ground-based and Airborne Instrumentation for Astronomy VIII, 114477D (13 December 2020); <a href="https://doi.org/10.1117/12.2562371" target="_blank">https://doi.org/10.1117/12.2562371</a><br>
 	<a href="/publications/assets/2020-SPIE-11447-100-The_exoplanet_transmission_spectroscopy_imager-ETSI_paper.pdf" target="_blank">(PDF)</a> <a href="/publications/assets/2020-SPIE-11447-100-The_exoplanet_transmission_spectroscopy_imager-ETSI_poster.pdf" target="_blank">(Poster)</a>
 </font>
 
